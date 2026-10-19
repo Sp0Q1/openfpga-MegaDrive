@@ -6,10 +6,10 @@
         "genesis"
       ],
       "shortname": "MegaDrive",
-      "description": "Sega Mega Drive / Genesis (Nuked-MD)",
-      "author": "drizzt",
-      "url": "https://github.com/drizzt/openFPGA-MegaDrive",
-      "version": "0.3.0",
+      "description": "Sega Mega Drive / Genesis (Nuked-MD) Pier Solar test",
+      "author": "Sp0Q1",
+      "url": "https://github.com/Sp0Q1/openFPGA-MegaDrive",
+      "version": "0.3.0-pier1",
       "date_release": "2026-08-05"
     },
     "framework": {
